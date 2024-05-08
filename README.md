@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Darryl</h1>
 <h3 align="center">A email & frontend developer from California</h3>
 
-<p align="center">- 👨‍💻 All of my projects are available at [Here](https://trbllabs.com)</p>
+<p align="center">- 👨‍💻 All of my projects are available here <a href="https://trbllabs.com" style="text-decoration: none; color: black;">Portfolio</a></p>
 
-<p align="center">- 📫 You can reach me here [Linkedin](https://www.linkedin.com/in/darrylrachel/)</p>
+<p align="center">- 📫 You can reach me here <a href="https://www.linkedin.com/in/darrylrachel/" style="text-decoration: none; color: black;">Linkedin</a>
 
-<h3 align="center" style="padding-top: 40px;">Languages and Tools:</h3>
+<h3 align="center" style="padding-top: 30px;">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="padding-right: 20px; text-decoration: none;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
