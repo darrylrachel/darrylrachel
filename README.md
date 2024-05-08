@@ -47,6 +47,23 @@
   </a>  -->
 </p>
 
+<h3 align="center" style="padding-top: 30px;">Projects:</h3>
+<p align="center" style="background-color: rgb(223, 222, 254);"> 
+  <a href="https://email-adidas-ultraboost.netlify.app/" target="_blank" rel="noreferrer" style="padding: 20px; text-decoration: none;"> 
+    <img src="https://i.postimg.cc/1tWbwYBL/adidas.png" alt="html5" width="512" height="341" style="padding: 40px 20px 20px 20px;"/> 
+  </a>
+  <a href="https://robinhood-newsletter.netlify.app/" target="_blank" rel="noreferrer" style="padding: 20px; text-decoration: none;"> 
+    <img src="https://i.postimg.cc/d3gWsMQj/robinhood.png" alt="html5" width="512" height="341" style="padding: 40px 20px 20px 20px;"/> 
+  </a>
+  <a href="https://mcdonaldscrocs.netlify.app/" target="_blank" rel="noreferrer" style="padding: 20px; text-decoration: none;"> 
+    <img src="https://i.postimg.cc/c1zkM37t/mcdonalds.png" alt="html5" width="512" height="341" style="padding: 40px 20px 20px 20px;"/> 
+  </a> 
+  <a href="https://honey-transactional.netlify.app/" target="_blank" rel="noreferrer" style="padding: 20px; text-decoration: none;"> 
+    <img src="https://i.postimg.cc/gjxSbcp0/honey.png" alt="html5" width="512" height="341" style="padding: 40px 20px 20px 20px;"/> 
+  </a>
+  
+</p>
+
 <p align="center" style="padding-top: 40px;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darrylrachel&show_icons=true&locale=en&layout=compact" alt="darrylrachel" /></p>
 
 <p align="center" style="padding-top: 20px;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darrylrachel&" alt="darrylrachel" /></p>
