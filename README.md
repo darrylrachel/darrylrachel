@@ -5,7 +5,7 @@
 
 <p align="center">- 📫 You can reach me here <a href="https://www.linkedin.com/in/darrylrachel/" style="text-decoration: none; color: black;">Linkedin</a>
 
-<h3 align="center" style="padding-top: 30px;">Languages and Tools:</h3>
+<h3 align="center" style="padding-top: 40px;">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="padding-right: 20px; text-decoration: none;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -47,7 +47,7 @@
   </a>  -->
 </p>
 
-<h3 align="center" style="padding-top: 30px;">Projects:</h3>
+<h3 align="center" style="padding-top: 40px;">Projects:</h3>
 <p align="center" style="background-color: rgb(223, 222, 254);"> 
   <a href="https://email-adidas-ultraboost.netlify.app/" target="_blank" rel="noreferrer" style="padding: 20px; text-decoration: none;"> 
     <img src="https://i.postimg.cc/1tWbwYBL/adidas.png" alt="html5" width="512" height="341" style="padding: 40px 20px 20px 20px;"/> 
