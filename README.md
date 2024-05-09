@@ -65,6 +65,8 @@
   
 </p>
 
+<!--
 <p align="center" style="padding-top: 40px;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darrylrachel&show_icons=true&locale=en&layout=compact" alt="darrylrachel" /></p>
 
 <p align="center" style="padding-top: 20px;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darrylrachel&" alt="darrylrachel" /></p>
+-->
