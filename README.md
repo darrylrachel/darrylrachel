@@ -16,6 +16,7 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" style="padding-right: 20px; text-decoration: none;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width=60 height=60/> 
   </a> 
+  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="padding-right: 20px; text-decoration: none;"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width=60 height=60/> 
   </a> 
@@ -49,17 +50,17 @@
 
 <h3 align="center" style="padding-top: 40px;">Projects:</h3>
 <p align="center" style="background-color: rgb(223, 222, 254);"> 
-  <a href="https://email-adidas-ultraboost.netlify.app/" target="_blank" rel="noreferrer" style="padding: 20px; text-decoration: none;"> 
+  <a href="https://email-adidas-ultraboost.netlify.app/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
     <img src="https://i.postimg.cc/1tWbwYBL/adidas.png" alt="html5" width="312" height="208" style="padding: 40px 20px 20px 20px;"/> 
   </a>
-  <a href="https://robinhood-newsletter.netlify.app/" target="_blank" rel="noreferrer" style="padding: 20px; text-decoration: none;"> 
+  <a href="https://robinhood-newsletter.netlify.app/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
     <img src="https://i.postimg.cc/d3gWsMQj/robinhood.png" alt="html5" width="312" height="208" style="padding: 40px 20px 20px 20px;"/> 
   </a>
-  <a href="https://mcdonaldscrocs.netlify.app/" target="_blank" rel="noreferrer" style="padding: 20px; text-decoration: none;"> 
+  <a href="https://mcdonaldscrocs.netlify.app/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
     <img src="https://i.postimg.cc/c1zkM37t/mcdonalds.png" alt="html5" width="312" height="208" style="padding: 40px 20px 20px 20px;"/> 
   </a> 
-  <a href="https://honey-transactional.netlify.app/" target="_blank" rel="noreferrer" style="padding: 20px; text-decoration: none;"> 
-    <img src="https://i.postimg.cc/gjxSbcp0/honey.png" alt="html5" width="312" height="208" style="padding: 40px 20px 20px 20px;"/> 
+  <a href="https://honey-transactional.netlify.app/" target="_blank" rel="noreferrer" style="text-decoration: none;"> 
+    <img src="https://i.postimg.cc/gjxSbcp0/honey.png" alt="html5" width="312" height="208" style="padding: 10px 20px 20px 20px;"/> 
   </a>
   
 </p>
