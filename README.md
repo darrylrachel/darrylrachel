@@ -50,10 +50,10 @@
 <h3 align="center" style="padding-top: 40px;">Projects:</h3>
 <p align="center" style="background-color: rgb(223, 222, 254);"> 
   <a href="https://email-adidas-ultraboost.netlify.app/" target="_blank" rel="noreferrer" style="padding: 20px; text-decoration: none;"> 
-    <img src="https://i.postimg.cc/1tWbwYBL/adidas.png" alt="html5" width="512" height="341" style="padding: 40px 20px 20px 20px;"/> 
+    <img src="https://i.postimg.cc/1tWbwYBL/adidas.png" alt="html5" width="312" height="208" style="padding: 40px 20px 20px 20px;"/> 
   </a>
   <a href="https://robinhood-newsletter.netlify.app/" target="_blank" rel="noreferrer" style="padding: 20px; text-decoration: none;"> 
-    <img src="https://i.postimg.cc/d3gWsMQj/robinhood.png" alt="html5" width="512" height="341" style="padding: 40px 20px 20px 20px;"/> 
+    <img src="https://i.postimg.cc/d3gWsMQj/robinhood.png" alt="html5" width="312" height="208" style="padding: 40px 20px 20px 20px;"/> 
   </a>
   <a href="https://mcdonaldscrocs.netlify.app/" target="_blank" rel="noreferrer" style="padding: 20px; text-decoration: none;"> 
     <img src="https://i.postimg.cc/c1zkM37t/mcdonalds.png" alt="html5" width="512" height="341" style="padding: 40px 20px 20px 20px;"/> 
