@@ -1,3 +1,6 @@
+<h1>ADD RESUME HERE AND LINK CODE ABOVE!!!</h1>
+
+
 <h1 align="center">Hi 👋, I'm Darryl</h1>
 <h3 align="center">A email & frontend developer from California</h3>
 
