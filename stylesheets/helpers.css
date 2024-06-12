@@ -1,3 +1,166 @@
-.border {
-  border: 1px solid aqua;
+:root {
+  --cobalt: #0047AB;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+main {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+
+
+/* SIDEBAR */
+
+.sidebar {
+  border-right: 1px solid #e2e2e2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 60px;
+  width: 20%;
+}
+
+.sidebar-image {
+  width: 100px;
+  height: 100px;
+  border-radius: 100px;
+  margin-bottom: 20px;
+}
+
+.profile-name {
+  margin-bottom: 5px;
+  font-size: 16px;
+  font-weight: 400;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 0.5em;
+  line-height: 1.4;
+}
+
+.sidebar-social ul li {
+  display: inline;
+  margin-right: 10px;
+  text-align: center;
+}
+
+ol, ul {
+  padding-left: 0;
+}
+
+i.fa.fa-linkedin,
+i.fa .fa-envelope {
+  font-size: 18px;
+}
+
+
+/* MAIN CONTENT */
+section.content {
+  width: 80%;
+}
+.page-section, .small-section {
+  padding: 40px 0;
+}
+
+
+
+.section-title {
+  margin-bottom: 15px;
+  font-size: 18px;
+  font-weight: 400;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 0.5em;
+  line-height: 1.4;
+  margin: 0 auto;
+  margin-left: -171px;
+}
+
+.row.skills-row {
+  align-items: center;
+  width: 90%;
+  justify-content: space-evenly;
+}
+
+.skills-icon {
+  width: 50%;
+}
+
+.skill-tab {
+  width: 14%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+p.skill-title {
+  margin: 10px 0px 2em;
+}
+
+.portfolio-section {
+  width: 100%;
+}
+
+.row.portfolio-row {
+  margin-bottom: 40px;
+  width: 90%;
+}
+
+.col-sm-12.col-md-6.portfolio-item.emails {
+  margin-bottom: 40px;
+}
+
+.portfolio-img {
+  border-radius: 6px;
+}
+
+.work-title {
+  margin: 0 0 8px 0;
+  padding: 15px;
+  font-size: 15px;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  line-height: 1.2;
+}
+
+.portfolio-btn-group {
+  margin: 10px 0 20px 0;
+}
+
+.portfolio-btn-group .btn {
+  margin-right: 10px;
+}
+
+/* BUTTONS */
+.btn-primary {
+  background-color: var(--cobalt);
+  border-color: var(--cobalt);
+  color: #fff
+}
+
+.btn-primary:hover {
+  background-color: #1c65cb;
+  color: #fff;
+  border-color:#1c65cb;
+  transition: 300ms ease-in-out;
+  text-decoration: none;
+}
+
+.btn-project {
+  color: var(--cobalt);
+}
+
+.btn-project:hover {
+  color: #1c65cb;
+  text-decoration: none;
+  transition: 300ms ease-in-out;
+}
+
+.row.portfolio-row {
+  margin-bottom: 40px;
 }

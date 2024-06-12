@@ -1,50 +1,59 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>HTML Email Portfolio | Darryl Rachel | Email Developer</title>
-  
-  <!-- CSS -->
-  <link rel="stylesheet" href="stylesheets/reset.css">
-  <!-- Iconify -->
-  <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HTML Email Portfolio | Darryl Rachel | Email Developer</title>
 
-  <!-- Favicons -->
-  <link rel="shortcut icon" href="images/favicon.png" />
+    <!-- CSS -->
+    <link rel="stylesheet" href="stylesheets/reset.css" />
+    <!-- Iconify -->
+    <script src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"></script>
 
-  <!-- CSS -->
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link
-    href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap"
-    rel="stylesheet"
-  />
-  <link rel="stylesheet" href="stylesheets/font-awesome.min.css" />
-  <link rel="stylesheet" href="stylesheets/bootstrap.min.css" />
-  <link rel="stylesheet" href="stylesheets/rhythm.css" />
-  <link rel="stylesheet" href="stylesheets/style-responsive.css" />
-  <link rel="stylesheet" href="stylesheets/animate.min.css" />
-  <link rel="stylesheet" href="stylesheets/vertical-rhythm.min.css" />
-  <link rel="stylesheet" href="stylesheets/owl.carousel.css" />
-  <link rel="stylesheet" href="stylesheets/magnific-popup.css" />
-  <link rel="stylesheet" href="stylesheets/helpers.css">
-  <link rel="stylesheet" href="stylesheets/style.css">
+    <!-- Favicons -->
+    <link rel="shortcut icon" href="images/favicon.png" />
 
-  <!-- FONTS -->
-</head>
-<body>
-  <main>
-    <section class="sidebar">
-      <div class="sidebar-image">
-        <img src="http://fpoimg.com/100x100?text=Preview" class="sidebar-image" />     
-      </div>
+    <!-- CSS -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="stylesheets/font-awesome.min.css" />
+    <link rel="stylesheet" href="stylesheets/bootstrap.min.css" />
+    <link rel="stylesheet" href="stylesheets/rhythm.css" />
+    <link rel="stylesheet" href="stylesheets/style-responsive.css" />
+    <link rel="stylesheet" href="stylesheets/animate.min.css" />
+    <link rel="stylesheet" href="stylesheets/vertical-rhythm.min.css" />
+    <link rel="stylesheet" href="stylesheets/owl.carousel.css" />
+    <link rel="stylesheet" href="stylesheets/magnific-popup.css" />
+    <link rel="stylesheet" href="stylesheets/helpers.css" />
+    <link rel="stylesheet" href="stylesheets/style.css" />
 
-      <h2 class="profile-name font-alt mb-40">Darryl Rachel</h2>
-    </section>
-    <section class="content">
+    <!-- FONTS -->
+  </head>
+  <body>
+    <main>
+      <section class="sidebar">
+        <!-- <div class="sidebar-image">
+        <img src="images/logo.png" class="sidebar-image" />     
+      </div> -->
 
-      <!-- Skills Section -->
+        <!-- http://fpoimg.com/100x100?text=Preview -->
+
+        <h2 class="profile-name font-alt">Darryl Rachel</h2>
+        <p class="mb-12" style="color: #0047AB;">HTML Email Developer</p>
+        <div class="sidebar-social">
+          <ul>
+            <li><i class="fa fa-linkedin" aria-hidden="true"></i></li>
+            <li><i class="fa fa-envelope" aria-hidden="true"></i></li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="content">
+        <!-- Skills Section -->
         <section class="page-section" id="skills">
           <div class="container relative">
             <h2 class="section-title font-alt mb-70 mb-sm-40">Skills</h2>
@@ -75,7 +84,11 @@
                   <p class="skill-title">Google Analytics</p>
                 </div>
                 <div class="skill-tab">
-                  <img src="/images/convertkit.png" alt="" class="skills-icon ck" />
+                  <img
+                    src="/images/convertkit.png"
+                    alt=""
+                    class="skills-icon ck"
+                  />
                   <p class="skill-title title-ck">ConvertKit</p>
                 </div>
               </div>
@@ -86,11 +99,11 @@
 
         <!-- Portfolio Section -->
         <section class="page-section pb-0" id="portfolio">
-          <div class="container relative">
+          <div class="container relative portfolio-container">
             <h2 class="section-title font-alt mb-70 mb-sm-40">Portfolio</h2>
             <div class="container">
-              <div class="row">
-                <div class="col-lg-10 offset-lg-1 col-xl-8">
+              <div class="row portfolio-blurb">
+                <div class="col-lg-10 col-xl-8">
                   <div class="section-text align-center mb-70 mb-xs-40">
                     I specialize in crafting responsive HTML emails. With a
                     passion for coding I bring creativity and technical
@@ -104,7 +117,7 @@
 
             <div class="container portfolio-section">
               <div class="row portfolio-row">
-                <div class="col-sm-12 col-md-4 portfolio-item emails">
+                <div class="col-sm-12 col-md-6 col-lg-6 portfolio-item emails">
                   <div class="portfolio-card emails" id="emails">
                     <div class="emails portfolio-card-img">
                       <img
@@ -112,18 +125,18 @@
                         alt="Mcdonald's Crocs collaboration"
                         class="portfolio-img"
                       />
-                      <h3 class="work-title">Mcdonald's Promotional</h3>
+                      <h3 class="work-title">Promotional</h3>
                     </div>
                     <div class="portfolio-btn-group">
                       <a
-                        class="btn btn-outline-dark btn-sm"
+                        class="btn btn-primary btn-md btn-block"
                         href="https://github.com/darrylrachel/mcdonalds-crocs"
                         role="button"
                         target="_blank"
                         >View code</a
                       >
                       <a
-                        class="btn btn-project btn-sm"
+                        class="btn btn-project btn-md btn-block"
                         href="https://mcdonaldscrocs.netlify.app/"
                         role="button"
                         target="_blank"
@@ -132,7 +145,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-sm-12 col-md-4 portfolio-item">
+                <div class="col-sm-12 col-md-6 col-lg-6 portfolio-item">
                   <div class="portfolio-card" id="emails">
                     <div class="emails portfolio-card-img">
                       <img
@@ -140,18 +153,18 @@
                         alt="Robinhood Newsletter"
                         class="portfolio-img"
                       />
-                      <h3 class="work-title">Robinhood Newsletter</h3>
+                      <h3 class="work-title">Newsletter</h3>
                     </div>
                     <div class="portfolio-btn-group">
                       <a
-                        class="btn btn-outline-dark btn-sm"
+                        class="btn  btn-primary btn-md btn-block"
                         href="https://github.com/darrylrachel/robinhood-newsletter"
                         role="button"
                         target="_blank"
                         >View code</a
                       >
                       <a
-                        class="btn btn-project btn-sm"
+                        class="btn btn-project btn-md btn-block"
                         href="https://robinhood-newsletter.netlify.app"
                         role="button"
                         target="_blank"
@@ -160,66 +173,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-sm-12 col-md-4 portfolio-item">
-                  <div class="portfolio-card" id="emails">
-                    <div class="emails portfolio-card-img">
-                      <img
-                        src="/images/Honey-Mockup.png"
-                        alt="Honey app receipt"
-                        class="portfolio-img"
-                      />
-                      <h3 class="work-title">Honey Transactional</h3>
-                    </div>
-                    <div class="portfolio-btn-group">
-                      <a
-                        class="btn btn-outline-dark btn-sm"
-                        href="https://github.com/darrylrachel/honey-receipt-recreate"
-                        role="button"
-                        target="_blank"
-                        >View code</a
-                      >
-                      <a
-                        class="btn btn-project btn-sm"
-                        href="https://honey-transaction-receipt.netlify.app"
-                        role="button"
-                        target="_blank"
-                        >View project</a
-                      >
-                    </div>
-                  </div>
-                </div>
-              </div>
-
-              <div class="row portfolio-row">
-                <div class="col-sm-12 col-md-4 portfolio-item">
-                  <div class="portfolio-card" id="landing-pages">
-                    <div class="emails portfolio-card-img">
-                      <img
-                        src="/images/Fylo-Mockup.png"
-                        alt="Fylo Landing Page"
-                        class="portfolio-img"
-                      />
-                      <h3 class="work-title">Landing Page</h3>
-                    </div>
-                    <div class="portfolio-btn-group">
-                      <a
-                        class="btn btn-outline-dark btn-sm"
-                        href="https://github.com/darrylrachel/fem-fylo"
-                        role="button"
-                        target="_blank"
-                        >View code</a
-                      >
-                      <a
-                        class="btn btn-project btn-sm"
-                        href="https://darryl-fylo.netlify.app/"
-                        role="button"
-                        target="_blank"
-                        >View project</a
-                      >
-                    </div>
-                  </div>
-                </div>
-                <div class="col-sm-12 col-md-4 portfolio-item">
+                <div class="col-sm-12 col-md-6 col-lg-6 portfolio-item">
                   <div class="portfolio-card" id="landing-pages">
                     <div class="emails portfolio-card-img">
                       <img
@@ -231,15 +185,99 @@
                     </div>
                     <div class="portfolio-btn-group web">
                       <a
-                        class="btn btn-outline-dark btn-sm"
+                        class="btn  btn-primary btn-md btn-block"
                         href="https://github.com/darrylrachel/huddle"
                         role="button"
                         target="_blank"
                         >View code</a
                       >
                       <a
-                        class="btn btn-project btn-sm"
+                        class="btn btn-project btn-md btn-block"
                         href="https://darryl-huddle.netlify.app/"
+                        role="button"
+                        target="_blank"
+                        >View project</a
+                      >
+                    </div>
+                  </div>
+                </div>
+                <div class="col-sm-12 col-md-6 col-lg-6 portfolio-item">
+                  <div class="portfolio-card" id="landing-pages">
+                    <div class="emails portfolio-card-img">
+                      <img
+                        src="/images/Fylo-Mockup.png"
+                        alt="Fylo Landing Page"
+                        class="portfolio-img"
+                      />
+                      <h3 class="work-title">Landing Page</h3>
+                    </div>
+                    <div class="portfolio-btn-group">
+                      <a
+                        class="btn  btn-primary btn-md btn-block"
+                        href="https://github.com/darrylrachel/fem-fylo"
+                        role="button"
+                        target="_blank"
+                        >View code</a
+                      >
+                      <a
+                        class="btn btn-project btn-md btn-block"
+                        href="https://darryl-fylo.netlify.app/"
+                        role="button"
+                        target="_blank"
+                        >View project</a
+                      >
+                    </div>
+                  </div>
+                </div>
+                <div class="col-sm-12 col-md-6 col-lg-6 portfolio-item">
+                  <div class="portfolio-card" id="emails">
+                    <div class="emails portfolio-card-img">
+                      <img
+                        src="/images/Honey-Mockup.png"
+                        alt="Honey app receipt"
+                        class="portfolio-img"
+                      />
+                      <h3 class="work-title">Transactional</h3>
+                    </div>
+                    <div class="portfolio-btn-group">
+                      <a
+                        class="btn  btn-primary btn-md btn-block"
+                        href="https://github.com/darrylrachel/honey-receipt-recreate"
+                        role="button"
+                        target="_blank"
+                        >View code</a
+                      >
+                      <a
+                        class="btn btn-project btn-md btn-block"
+                        href="https://honey-transaction-receipt.netlify.app"
+                        role="button"
+                        target="_blank"
+                        >View project</a
+                      >
+                    </div>
+                  </div>
+                </div>
+                <div class="col-sm-12 col-md-6 col-lg-6 portfolio-item">
+                  <div class="portfolio-card" id="emails">
+                    <div class="emails portfolio-card-img">
+                      <img
+                        src="/images/adidas.png"
+                        alt="Adidas Promotional Email"
+                        class="portfolio-img"
+                      />
+                      <h3 class="work-title">Promotional</h3>
+                    </div>
+                    <div class="portfolio-btn-group">
+                      <a
+                        class="btn  btn-primary btn-md btn-block"
+                        href="https://github.com/darrylrachel/email-ultraboost-adidas"
+                        role="button"
+                        target="_blank"
+                        >View code</a
+                      >
+                      <a
+                        class="btn btn-project btn-md btn-block"
+                        href="https://email-adidas-ultraboost.netlify.app/"
                         role="button"
                         target="_blank"
                         >View project</a
@@ -253,37 +291,27 @@
           </div>
         </section>
         <!-- End Portfolio Section -->
+      </section>
+    </main>
 
-
-    </section>
-  </main>
-
-  <!-- Footer -->
-      <footer class="page-section bg-gray-lighter footer">
-        <div class="container">
-          <!-- Footer Text -->
-          <div class="footer-text">
-            <!-- Copyright -->
-            <div class="footer-copy font-alt">
-              Darryl Rachel <span style="color: #ffc92c"> | </span>HTML Email
-              Developer.
-            </div>
-            <!-- End Copyright -->
+    <!-- Footer -->
+    <footer class="page-section bg-gray-lighter footer">
+      <div class="container">
+        <!-- Footer Text -->
+        <div class="footer-text">
+          <!-- Copyright -->
+          <div class="footer-copy font-alt">
+            Darryl Rachel <span style="color: #1c65cb;"> | </span>HTML Email
+            Developer.
           </div>
-          <!-- End Footer Text -->
+          <!-- End Copyright -->
         </div>
-        <!-- Top Link -->
-        <div class="local-scroll">
-          <a href="#top" class="link-to-top"
-            ><i class="fa fa-caret-up"></i
-            ><span class="sr-only">Scroll to top</span></a
-          >
-        </div>
-        <!-- End Top Link -->
-      </footer>
-      <!-- End Foter -->
+        <!-- End Footer Text -->
+      </div>
+    </footer>
+    <!-- End Foter -->
 
-  <!-- JS -->
+    <!-- JS -->
     <script type="text/javascript" src="js/jquery.min.js"></script>
     <script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
     <script type="text/javascript" src="js/bootstrap.bundle.min.js"></script>
@@ -311,5 +339,5 @@
     <!--[if lt IE 10
       ]><script type="text/javascript" src="js/placeholder.js"></script
     ><![endif]-->
-</body>
+  </body>
 </html>
