@@ -128,7 +128,121 @@ p.skill-title {
   line-height: 1.2;
 }
 
-.portfolio-btn-group {
+
+
+
+/* 
+
+col-sm-12 col-md-6 col-lg-6
+col-sm-12 col-md-6 col-lg-6
+col-sm-12 col-md-6 col-lg-6
+col-sm-12 col-md-6 col-lg-6
+col-sm-12 col-md-6 col-lg-6
+col-sm-12 col-md-6 col-lg-6
+
+*/
+
+
+
+
+  .row.portfolio-row {
+    display: flex;
+    /* flex-direction: row; */
+    /* align-items: center;  */
+  }
+
+  /* .container.relative.portfolio-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  } */
+
+  .section-title {
+    margin-bottom: 15px;
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 0.5em;
+    line-height: 1.4;
+    margin: 0 auto;
+  }
+
+  .col-sm-12.col-md-6.portfolio-item.emails {
+    margin-bottom: 40px;
+  }
+
+  .portfolio-img {
+    border-radius: 6px;
+  }
+
+  .work-title {
+    margin: 0 0 8px 0;
+    padding: 15px;
+    font-size: 15px;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    line-height: 1.2;
+  }
+
+  .portfolio-btn-group {
+    margin: 10px 0 20px 0;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+  }
+
+  .portfolio-btn-group .btn {
+    margin-right: 10px;
+  }
+
+
+  /* BUTTONS */
+  .btn-primary {
+    background-color: var(--cobalt);
+    border-color: var(--cobalt);
+    color: #fff
+  }
+
+  .btn-primary:hover {
+    background-color: #1c65cb;
+    color: #fff;
+    border-color:#1c65cb;
+    transition: 300ms ease-in-out;
+    text-decoration: none;
+  }
+
+  .btn-project {
+    color: var(--cobalt);
+  }
+
+  .btn-project:hover {
+    color: #1c65cb;
+    text-decoration: none;
+    transition: 300ms ease-in-out;
+  }
+
+
+  /* EVERYTHING BELOW THIS */
+
+  .portfolio-section {
+    width: 80%;
+  }
+
+  .container.portfolio-section {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+
+  .row.portfolio-row {
+    margin-bottom: 40px;
+    width: 100%;
+  }
+
+  .portfolio-btn-group {
   margin: 10px 0 20px 0;
 }
 
